@@ -1,8 +1,10 @@
 ul{
       list-style: nome;
       display: flex;
+width: 100px
+align-items: center;
+justify-content: center
 }
-
 li{
     margin-left: 10px;
 }
