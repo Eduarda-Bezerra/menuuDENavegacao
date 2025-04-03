@@ -1,7 +1,7 @@
 ul{
     list-style: nome;
     display: flex;
-    width: 100px;
+    width: 100%;
     align-items: center;
     justify-content: center;
     height: 60px;
