@@ -24,7 +24,7 @@ a{
 }
 
 a:hover{
-    border-bottom: 2px solid black ;
+    border-bottom: 2px solid rgb(250, 205, 212) ;
     font-size: 20pt;
 }
 
